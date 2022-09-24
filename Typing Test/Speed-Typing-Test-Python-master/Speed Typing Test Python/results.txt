@@ -1,0 +1,99 @@
+TYPE HISTORY RESULTS
+Time:18 secs   Accuracy:100%   Wpm: 27
+Time:17 secs   Accuracy:86%   Wpm: 21
+Time:17 secs   Accuracy:100%   Wpm: 31
+Time:10 secs   Accuracy:44%   Wpm: 25
+Time:21 secs   Accuracy:71%   Wpm: 28
+Time:5 secs   Accuracy:38%   Wpm: 36
+Time:2 secs   Accuracy:0%   Wpm: 0
+Time:16 secs   Accuracy:100%   Wpm: 38
+Time:13 secs   Accuracy:88%   Wpm: 32
+Time:14 secs   Accuracy:89%   Wpm: 34
+Time:14 secs   Accuracy:100%   Wpm: 31
+Time:13 secs   Accuracy:100%   Wpm: 37
+Time:15 secs   Accuracy:100%   Wpm: 40
+Time:15 secs   Accuracy:100%   Wpm: 37
+Time:9 secs   Accuracy:36%   Wpm: 33
+Time:12 secs   Accuracy:100%   Wpm: 39
+Time:11 secs   Accuracy:83%   Wpm: 27
+Time:7 secs   Accuracy:80%   Wpm: 67
+Time:9 secs   Accuracy:50%   Wpm: 40
+Time:11 secs   Accuracy:100%   Wpm: 49
+Time:10 secs   Accuracy:100%   Wpm: 42
+Time:7 secs   Accuracy:36%   Wpm: 35
+Time:17 secs   Accuracy:64%   Wpm: 31
+Time:5 secs   Accuracy:22%   Wpm: 26
+Time:1638729072 secs   Accuracy:100%   Wpm: 0
+Time:2 secs   Accuracy:0%   Wpm: 0
+Time:12 secs   Accuracy:100%   Wpm: 51
+Time:18 secs   Accuracy:100%   Wpm: 36
+Time:4 secs   Accuracy:25%   Wpm: 32
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:14 secs   Accuracy:100%   Wpm: 31
+Time:14 secs   Accuracy:50%   Wpm: 31
+Time:18 secs   Accuracy:100%   Wpm: 30
+Time:16 secs   Accuracy:64%   Wpm: 34
+Time:15 secs   Accuracy:50%   Wpm: 20
+Time:2 secs   Accuracy:0%   Wpm: 0
+Time:10 secs   Accuracy:42%   Wpm: 29
+Time:6 secs   Accuracy:17%   Wpm: 10
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:4 secs   Accuracy:0%   Wpm: 0
+Time:8 secs   Accuracy:23%   Wpm: 24
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:2 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:1 secs   Accuracy:0%   Wpm: 0
+Time:41 secs   Accuracy:12%   Wpm: 1
+Time:17 secs   Accuracy:100%   Wpm: 32
+Time:33 secs   Accuracy:100%   Wpm: 15
+Time:38 secs   Accuracy:50%   Wpm: 8
+Time:3 secs   Accuracy:0%   Wpm: 0
+Time:18 secs   Accuracy:62%   Wpm: 17
+Time:11 secs   Accuracy:22%   Wpm: 11
+Time:25 secs   Accuracy:90%   Wpm: 21
+Time:2 secs   Accuracy:0%   Wpm: 0
+Time:22 secs   Accuracy:100%   Wpm: 21EXCELLENT
+Time:3 secs   Accuracy:0%   Wpm: 0 NEED TO IMPROVE
+Time:19 secs   Accuracy:100%   Wpm: 25 EXCELLENT
+Time:16 secs   Accuracy:100%   Wpm: 29  EXCELLENT
+Time:2 secs   Accuracy:0%   Wpm: 0  BAD
+Time:2 secs   Accuracy:0%   Wpm: 0  ABYSMAL
+Time:33 secs   Accuracy:100%   Wpm: 14  EXCELLENT
+Time:8 secs   Accuracy:42%   Wpm: 38   ABYSMAL
+Time:12 secs   Accuracy:62%   Wpm: 39   GOOD
+Time:22 secs   Accuracy:58%   Wpm: 19   GOOD
+Time:29 secs   Accuracy:100%   Wpm: 14   EXCELLENT
+Time:2 secs   Accuracy:0%   Wpm: 0   ABYSMAL
+Time:13 secs   Accuracy:50%   Wpm: 19   GOOD
+Time:23 secs   Accuracy:57%   Wpm: 10   GOOD
+Time:2 secs   Accuracy:0%   Wpm: 0   ABYSMAL
+Time:1 secs   Accuracy:0%   Wpm: 0   ABYSMAL
+Time:1 secs   Accuracy:0%   Wpm: 0   ABYSMAL
+Time:14 secs   Accuracy:31%   Wpm: 17   ABYSMAL
+Time:2 secs   Accuracy:0%   Wpm: 0   ABYSMAL
+Time:13 secs   Accuracy:22%   Wpm: 9   ABYSMAL
